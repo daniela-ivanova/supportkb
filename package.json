@@ -1,12 +1,10 @@
 {
   "name": "siteground-node-test",
   "version": "1.0.0",
-  "description": "Simple Node.js test app for SiteGround",
-  "main": "server.js",
+  "description": "Test Node.js App for SiteGround",
+  "main": "app.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   },
-  "dependencies": {
-    "express": "^4.19.2"
-  }
+  "dependencies": {}
 }
